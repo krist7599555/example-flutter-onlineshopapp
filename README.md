@@ -1,4 +1,4 @@
-# loopers_clone_app
+# Example Online Shop App [Tutorial](https://www.youtube.com/watch?v=XBKzpTz65Io&ab_channel=TheFlutterWay)
 
 
 ```bash
