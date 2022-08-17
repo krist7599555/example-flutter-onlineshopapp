@@ -6,21 +6,19 @@ class Body extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Column(children: [
-        Padding(
-          padding: const EdgeInsets.symmetric(
-            horizontal: kDefaultPadding,
-          ),
-          child: Text(
-            "HH",
-            style: Theme.of(context)
-                .textTheme
-                .headline5!
-                .copyWith(fontWeight: FontWeight.bold),
-          ),
-        )
-      ]),
-    );
+    return Column(children: [
+      Padding(
+        padding: const EdgeInsets.symmetric(
+          horizontal: kDefaultPadding,
+        ),
+        child: Text(
+          "HH",
+          style: Theme.of(context)
+              .textTheme
+              .headline5!
+              .copyWith(fontWeight: FontWeight.bold),
+        ),
+      )
+    ]);
   }
 }
