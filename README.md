@@ -1,5 +1,21 @@
 # loopers_clone_app
 
+
+```bash
+flutter run -d web-server
+flutter run --web-renderer html --device-id "Chrome"
+```
+```bash
+dart pub upgrade --null-safety
+```
+or
+```bash
+flutter run -d opera --web-renderer html
+```
+
+
+https://www.youtube.com/watch?v=XBKzpTz65Io&ab_channel=TheFlutterWay
+
 A new Flutter project.
 
 ## Getting Started

@@ -1,0 +1,20 @@
+{
+  "autoHide.autoHideSideBar": false,
+  "files.exclude": {
+    ".dart_tool": true,
+    ".git": true,
+    ".gitignore": true,
+    ".vscode": true,
+    "analysis_options.yaml": true,
+    "android": true,
+    "ios": true,
+    "loopers_clone_app.iml": true,
+    "pubspec.lock": true,
+    "test": true,
+    "web": true,
+    "windows": true,
+    ".idea": true,
+    ".packages": true
+  },
+  "workspace.isHidden": true
+}
